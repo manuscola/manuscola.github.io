@@ -9,22 +9,19 @@ comments: no
 
 {{ site.about }}
 
-专业打杂程序员，全栈工程师，擅长打杂，吹牛逼...
+Linux 后端工程师，从事存储行业
 
-典型的复合型专业人才、涉猎众多交叉学科：
+> Linux kernel, Ceph
 
-> Linux kernel, MySQL/InnoDB/SQLite/Ceph, Docker/Kubernetes...
-
-格言
-
-> 阅码无数，心中无码
 
 ---
 ###经历
 
-* 2004.09 ~ 2011.04 游学于武汉某985职业技术学院 —— 关山口职业技术学院
+* 2010.04 ~ 2012.02      ZTE，分布式文件系统ZXDFS的开发
+ 
+* 2012.02 ~ 2015.01      TrendMicro，威胁发现设备（TDA）后台开发
 
-* 2011.04 ~ Now     在深圳某国内前三互联网公司，从事搬砖、打杂等相关工作
+* 2015.01 ~ Now          BigTera，基于Ceph的分布式存储开发
 
 
 ----
@@ -40,7 +37,7 @@ comments: no
 
 GitHub：[http://github.com/{{ site.github }}](http://github.com/{{ site.github }})
 
-@cnblogs：[hustcat](http://hustcat.cnblogs.com)
+@cublogs：[Bean Li](http://bean.blog.chinaunix.net)
 
 ----
 
